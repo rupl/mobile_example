@@ -1,0 +1,10 @@
+; $Id$
+
+; Originally based off of mobile_garland
+; http://drupal.org/project/mobile_garland
+
+name = Mobile Example
+description = A responsive Drupal theme which uses CSS to deliver both mobile and desktop experiences without any theme switching.
+core = 6.x
+engine = phptemplate
+stylesheets[all][] = style.css
